@@ -8,11 +8,11 @@ The Weather App is a simple application built with Tkinter that provides current
 - Displays the current temperature and weather condition.
 
 ## Installation
-### Step 1: 
+##### Step 1: 
 Clone the Repository 
-### Step 2:
+##### Step 2:
 ```pip install -r requirements.txt```
-### Step 3:
+##### Step 3:
 ```py weather-app.py```
 
 ## Screenshots
