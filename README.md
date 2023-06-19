@@ -10,11 +10,9 @@ The Weather App is a simple application built with Tkinter that provides current
 ## Installation
 Step 1: Clone the Repository 
 Step 2:
-```shell
-pip install -r requirements.txt
+```pip install -r requirements.txt
 Step 3:
-```shell 
-py weather-app.py
+```py weather-app.py
 
 ## Screenshots
 ![ss1](https://github.com/Iam0-0ap/Tkinter-Weather-App/assets/84081364/864cae1b-76f7-4663-93be-293e461394d0)
